@@ -1,0 +1,50 @@
+REMARK   This PDB file was created by CS Chem3D.
+HETATM    1  C           1      -3.140  -1.552   0.155                      C 
+HETATM    2  C           1      -3.141  -2.947   0.155                      C 
+HETATM    3  C           1      -1.934  -3.645   0.095                      C 
+HETATM    4  C           1      -0.728  -2.947   0.036                      C 
+HETATM    5  H           1      -4.092  -1.002   0.202                      H 
+HETATM    6  H           1      -1.934  -4.745   0.096                      H 
+HETATM    7  H           1       0.224  -3.497  -0.011                      H 
+HETATM    8  N           1       1.669   3.016  -0.082                      N 
+HETATM    9  C           1       2.761   3.950  -0.136                      C 
+HETATM   10  H           1       0.708   3.356  -0.035                      H 
+HETATM   11  H           1       3.724   3.393  -0.184                      H 
+HETATM   12  H           1       2.657   4.589  -1.042                      H 
+HETATM   13  H           1       2.747   4.589   0.774                      H 
+HETATM   14  C           1      -0.727  -1.552   0.036                      C 
+HETATM   15  C           1      -1.934  -0.855   0.095                      C 
+HETATM   16  Cl          1      -1.934   0.864   0.095                      CL
+HETATM   17  H           1      -4.092  -3.497   0.202                      H 
+HETATM   18  C           1       0.429  -0.884  -0.021                      C 
+HETATM   19  C           1       0.429   0.453  -0.021                      C 
+HETATM   20  H           1       1.380  -1.434  -0.068                      H 
+HETATM   21  H           1      -0.522   1.003   0.026                      H 
+HETATM   22  O           1       2.794   0.998   1.048                      O 
+HETATM   23  S           1       1.977   1.348  -0.098                      S 
+HETATM   24  O           1       2.678   0.998  -1.317                      O 
+CONECT    1    5    2   15
+CONECT    2    1    3   17
+CONECT    3    6    2    4
+CONECT    4    7    3   14
+CONECT    5    1
+CONECT    6    3
+CONECT    7    4
+CONECT    8   23    9   10
+CONECT    9    8   13   11   12
+CONECT   10    8
+CONECT   11    9
+CONECT   12    9
+CONECT   13    9
+CONECT   14    4   15   18
+CONECT   15   14    1   16
+CONECT   16   15
+CONECT   17    2
+CONECT   18   14   19   20
+CONECT   19   18   21   23
+CONECT   20   18
+CONECT   21   19
+CONECT   22   23
+CONECT   23    8   19   22   24
+CONECT   24   23
+END
