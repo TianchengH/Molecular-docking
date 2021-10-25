@@ -1,1 +1,1 @@
-Molecular docking analysis of RMI1/2 with selected ligands
+Molecular docking analysis of RMI1/2 subcomplex with selected ligands
